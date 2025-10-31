@@ -18,18 +18,21 @@ Fortalecer os fundamentos da programação e desenvolver o raciocínio lógico c
 
 ## 🗂 Estrutura do Repositório
 
-📦 exercicios-js
-┣ 📂 01-variaveis-operadores
-┃ ┣ 📜 ex1.js
-┃ ┣ 📜 ex2.js
-┃ ┣ 📜 ex3.js
-┃ ┗ 📜 ex4.js
-┣ 📂 02-condicionais
-┃ ┣ 📜 if_else.js
-┃ ┗ 📜 switch_case.js
-┣ 📜 README.md
-┗ 📜 .gitignore
-
+```bash
+exercicios-js/
+│
+├── 01-variaveis-operadores/
+│   ├── ex1.js
+│   ├── ex2.js
+│   ├── ex3.js
+│   └── ex4.js
+│
+├── 02-condicionais/
+│   ├── if_else.js
+│   └── switch_case.js
+│
+├── .gitignore
+└── README.md
 
 Cada pasta representa um tema específico de estudo, e dentro dela há arquivos `.js` com exemplos e exercícios comentados.
 
