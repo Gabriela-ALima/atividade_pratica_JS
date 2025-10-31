@@ -1,4 +1,4 @@
-# 🧠 Exercícios de Lógica em JavaScript
+# 🧠 Exercícios de Lógica em JavaScript para a Generation
 
 Este repositório contém exercícios práticos de **lógica de programação em JavaScript**, organizados por temas.  
 O objetivo é praticar desde os conceitos básicos até estruturas mais avançadas da linguagem.
@@ -28,8 +28,15 @@ exercicios-js/
 │   └── ex4.js
 │
 ├── 02-condicionais/
-│   ├── if_else.js
-│   └── switch_case.js
+│   ├── ex1.js
+│   ├── ex2.js
+│   ├── ex3.js
+│   └── ex4.js
+│   ├── ex5.js
+│   ├── ex6.js
+│   ├── ex7.js
+│   └── ex8.js
+│   
 │
 ├── .gitignore
 └── README.md
