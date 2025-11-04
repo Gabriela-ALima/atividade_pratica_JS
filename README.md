@@ -31,15 +31,36 @@ exercicios-js/
 │   ├── ex1.js
 │   ├── ex2.js
 │   ├── ex3.js
-│   └── ex4.js
+│   ├── ex4.js
 │   ├── ex5.js
 │   ├── ex6.js
 │   ├── ex7.js
 │   └── ex8.js
-│   
+│
+├── 03-for_while-doWhile-vetores-matrizes/
+│   ├── lista1/
+│   │   ├── ex1.js
+│   │   └── ex2.js
+│   │
+│   ├── lista2/
+│   │   ├── ex3.js
+│   │   └── ex4.js
+│   │
+│   ├── lista3/
+│   │   ├── ex5.js
+│   │   └── ex6.js
+│   │
+│   ├── lista4/
+│   │   ├── ex7.js
+│   │   └── ex8.js
+│   │
+│   └── lista5/
+│       ├── ex9.js
+│       └── ex10.js
 │
 ├── .gitignore
 └── README.md
+
 
 Cada pasta representa um tema específico de estudo, e dentro dela há arquivos `.js` com exemplos e exercícios comentados.
 
